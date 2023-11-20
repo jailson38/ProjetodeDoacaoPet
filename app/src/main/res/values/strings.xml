@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProjetoPets</string>
+    <string name="activity_main_usuario">Usuário</string>
+    <string name="activity_main_senha">Senha</string>
+    <string name="activity_main_entrar">Entrar</string>
+    <string name="activity_main_esqueci_senha">Esqueci a senha</string>
+    <string name="activity_main_cadastrar">Cadastrar senhar</string>
+
+    <string name="activity_tela_cao">Cão</string>
+    <string name="activity_tela_gato">Gato</string>
+    <string name="activity_tela_coelho">Coelho</string>
+    <string name="activity_tela_calendario">Calendario</string>
+</resources>
